@@ -1,0 +1,12 @@
+.rewards {
+  width: 100%;
+  text-align: center;
+
+  &__container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 45%;
+    margin: 64px auto 32px;
+    justify-content: center;
+  }
+}

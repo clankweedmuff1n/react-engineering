@@ -1,0 +1,25 @@
+.review {
+  display: flex;
+  color: #6a3a29;
+  flex-direction: column;
+  text-align: center;
+
+  &__content {
+    width: auto;
+    margin: 0 auto 2rem;
+    max-width: 1260px;
+  }
+
+  &__container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__title {
+    margin: 2rem 0 2rem 0;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.4;
+    text-transform: uppercase;
+  }
+}

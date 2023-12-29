@@ -1,0 +1,20 @@
+.main {
+  display: flex;
+  color: #6a3a29;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #f2ebe2;
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+    /*margin: 4rem 8rem 0 8rem;*/
+    margin: 4rem auto 4rem;
+  }
+
+  &__row {
+    display: flex;
+    /*width: 100%;*/
+    width: 1030px;
+  }
+}
