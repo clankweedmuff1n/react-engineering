@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-engineering/static/css/main.ee036c99.css",
+    "main.js": "/react-engineering/static/js/main.99caadce.js",
+    "static/js/787.e055e218.chunk.js": "/react-engineering/static/js/787.e055e218.chunk.js",
+    "index.html": "/react-engineering/index.html",
+    "main.ee036c99.css.map": "/react-engineering/static/css/main.ee036c99.css.map",
+    "main.99caadce.js.map": "/react-engineering/static/js/main.99caadce.js.map",
+    "787.e055e218.chunk.js.map": "/react-engineering/static/js/787.e055e218.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee036c99.css",
+    "static/js/main.99caadce.js"
+  ]
+}
